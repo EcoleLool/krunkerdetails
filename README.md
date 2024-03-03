@@ -3,6 +3,18 @@ Settings, Mods and CSS of my Krunker client
 
 ---
 
+# My Stats/Profile :
+
+![(Main account) - The_BlueNeon]([main_custom.css](https://krunker.io/social.html?p=profile&q=the_blueneon))
+
+![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/3a10e1f3-6965-4df6-8957-b89fc255d454)
+
+![(Secoundary account) - The_BlueNeon]([main_custom.css](https://krunker.io/social.html?p=profile&q=the_blueneon))
+
+![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/c1e060c1-d5ad-4c38-8c3a-5118b0da74e4)
+
+---
+
 # CSS file :
 
 ![CSS](main_custom.css)
