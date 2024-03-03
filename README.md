@@ -1,6 +1,8 @@
 # krunkerdetails
 Settings, Mods and CSS of my Krunker client
 
+![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/a583fd8c-cd50-499d-95ee-9f4db3033880)
+
 ---
 
 # My Stats/Profile :
