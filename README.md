@@ -48,5 +48,7 @@
 
 - I use the official one:
 ![Official Website](https://krunker.io/)
+
 ![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/867e8d84-ed3f-4a05-a32a-50ef17e4c58b)
-- At the top-right corner
+
+- Download at the top-right corner
