@@ -1,4 +1,4 @@
-# krunkerdetails
+# My Krunker Details :
 
 1) Settings
 2) Mods
@@ -18,7 +18,7 @@
 
 # CSS file :
 
-![CSS](main_custom.css)
+![CSS file | custom_main.css](main_custom.css)
 
 ---
 
