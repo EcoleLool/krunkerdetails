@@ -18,7 +18,7 @@
 
 # CSS file :
 
-![CSS file | custom_main.css](main_custom.css)
+[CSS file | custom_main.css](main_custom.css)
 
 ---
 
@@ -32,13 +32,13 @@
 
 
 ## Main account :
-![(Main account) - The_BlueNeon]([main_custom.css](https://krunker.io/social.html?p=profile&q=the_blueneon))
+[(Main account) - The_BlueNeon]([main_custom.css](https://krunker.io/social.html?p=profile&q=the_blueneon))
 
 ![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/3a10e1f3-6965-4df6-8957-b89fc255d454)
 
 
 ## Secoundary account :
-![(Secoundary account) - The_BlueNeon]([main_custom.css](https://krunker.io/social.html?p=profile&q=the_blueneon))
+[(Secoundary account) - The_BlueNeon]([main_custom.css](https://krunker.io/social.html?p=profile&q=the_blueneon))
 
 ![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/c1e060c1-d5ad-4c38-8c3a-5118b0da74e4)
 
@@ -47,7 +47,7 @@
 # Client:
 
 - I use the official one:
-![Official Website](https://krunker.io/)
+[Official Website](https://krunker.io/)
 
 ![image](https://github.com/EcoleLool/krunkerdetails/assets/122475709/867e8d84-ed3f-4a05-a32a-50ef17e4c58b)
 
